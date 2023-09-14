@@ -4,13 +4,11 @@ public static void Main(string[] args){
     
     int num1=3, num2=5, sum=0;
     
-    // Find the sum of squares of the given two numbers
-    // Write your name and empid in the output
-    // Complete the program and push into Github and Bitbucket
+    int firstresult= num1*num1;  // These two methods are added by Arun 11989
+    int secondresult= num2*num2; // These two methods are added by Arun 11989
+    
 
     
-    //sum = 
-    //Console.WriteLine("Sum = ");
 
 }
 

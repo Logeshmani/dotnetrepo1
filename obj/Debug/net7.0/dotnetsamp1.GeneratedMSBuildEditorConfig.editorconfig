@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnetsamp1
+<<<<<<< HEAD
 build_property.ProjectDir = d:\Github\dotnetrepo1\
+=======
+build_property.ProjectDir = d:\dotnetrepo1\
+>>>>>>> d0f6e29821e6430b780ae47e559779733c0d1a1e

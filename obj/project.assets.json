@@ -8,11 +8,16 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ashwin.maheswaran\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\arun.srinivasan\\.nuget\\packages\\": {}
+>>>>>>> d0f6e29821e6430b780ae47e559779733c0d1a1e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj",
       "projectName": "dotnetsamp1",
       "projectPath": "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ashwin.maheswaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "d:\\dotnetrepo1\\dotnetsamp1.csproj",
+      "projectName": "dotnetsamp1",
+      "projectPath": "d:\\dotnetrepo1\\dotnetsamp1.csproj",
+      "packagesPath": "C:\\Users\\arun.srinivasan\\.nuget\\packages\\",
+      "outputPath": "d:\\dotnetrepo1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\arun.srinivasan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> d0f6e29821e6430b780ae47e559779733c0d1a1e
       ],
       "originalTargetFrameworks": [
         "net7.0"

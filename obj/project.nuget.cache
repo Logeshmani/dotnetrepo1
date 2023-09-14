@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uNvtUEROg98jjcS4r9/EEIp4yQtnaHQw0NAFi0UKwKrk22Nz2bM17rLADpT7TtB8YR6TIzsDuCDZZcVsv1buMw==",
   "success": true,
   "projectFilePath": "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj",
+=======
+  "dgSpecHash": "B95Xk/R3nhTQ+Ic2DqgtOYD2UIqbgXf9wHeOtzLOYk5Purh504FiFtCFOeMunioqOsrUF3OcRxt5TbKfysDu7w==",
+  "success": true,
+  "projectFilePath": "d:\\dotnetrepo1\\dotnetsamp1.csproj",
+>>>>>>> d0f6e29821e6430b780ae47e559779733c0d1a1e
   "expectedPackageFiles": [],
   "logs": []
 }
