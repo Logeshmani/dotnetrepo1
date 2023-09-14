@@ -11,6 +11,7 @@ public static void Main(string[] args){
 
     Console.WriteLine("The sum of square of two integers is: "); // This line is added by Ashwin Kumar 11993
     Console.WriteLine(sum);//this line shows the output on the console (gokul -11986)
+    Console.WriteLine(firstresult*secondresult);
     
     
 
