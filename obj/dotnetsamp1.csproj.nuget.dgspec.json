@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj": {}
+    "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj": {}
   },
   "projects": {
-    "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj": {
+    "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+        "projectUniqueName": "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj",
         "projectName": "dotnetsamp1",
-        "projectPath": "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
-        "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
-        "outputPath": "d:\\Relevantz\\dotnetsamp1\\obj\\",
+        "projectPath": "d:\\Github\\dotnetrepo1\\dotnetsamp1.csproj",
+        "packagesPath": "C:\\Users\\ashwin.maheswaran\\.nuget\\packages\\",
+        "outputPath": "d:\\Github\\dotnetrepo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ashwin.maheswaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
