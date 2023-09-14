@@ -10,7 +10,7 @@ public static void Main(string[] args){
     sum=firstresult+secondresult; //These method is added by Asha 11997
 
     Console.WriteLine("The sum of square of two integers is: "); // This line is added by Ashwin Kumar 11993
-    Console.WriteLine();
+    Console.WriteLine(sum);
     
     
 
